@@ -2,7 +2,7 @@
 #
 # This is the configuration file for your blog, please change these items after forked.
 
-title: Technical Blog
+title: "Technical Blog"
 email: ineedanavailableemail@gmail.com
 name: helltrain
 description: >- # this means to ignore newlines until "baseurl:"
@@ -26,7 +26,7 @@ paginate_path: '/page:num/'
 permalink: /:year/:month/:day/:title
 
 sass:
-        sass_dir: _sass
+  sass_dir: _sass
   style: expanded # compressed, compact, expanded or compressed
 
 # Build settings
