@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to the first Test Article!"
 date:   2020-08-18
 last_modified_at: 2020-08-18
-categories: [TEST ARTICLES]
+categories: [TEST ARTICLES, Code]
 ---
 
 ```c
